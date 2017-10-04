@@ -1,0 +1,2 @@
+#!/bin/bash
+python src/neuralnetwork.py $1 $2 $3 $4
